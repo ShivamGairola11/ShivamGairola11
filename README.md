@@ -1,5 +1,5 @@
 # 💫 About Me:
-💻 SDE | Passionate about building scalable web apps & system design<br>🚀 Skilled in React, Next.js, Node.js, TypeScript, MongoDB, AWS<br>🔍 Focused on clean code, performance, and user experience<br>📈 Open to collaborations & learning new technologies<br>🌱 Currently leveling up in DSA & backend architecture
+💻 Frontend Developer | Passionate about building scalable web apps & system design<br>🚀 Skilled in React, Next.js, Node.js, Express.js, JavaScript, MongoDB, AWS<br>🔍 Focused on clean code, performance, and user experience<br>📈 Open to collaborations & learning new technologies<br>🌱 Currently leveling up in DSA & backend architecture
 
 
 ## 🌐 Socials:
